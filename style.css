@@ -14,16 +14,5 @@
     margin: 20px;
     line-height: 180%;
   }
-  
-  .dots::after {
-    content: '...';
-    animation: blink 1s infinite;
-    color: rgb(0, 255, 0);
-  }
-  
-  @keyframes blink {
-    0% { opacity: 0; }
-    50% { opacity: 1; }
-    100% { opacity: 0; }
-  }
+
   
