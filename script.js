@@ -28,7 +28,7 @@ async function main() {
   }, 100);
 
   let text = [
-    "Initialized Hacking now reading your data",
+    "Initialized Hacking",
     "Reading your Files",
     "Password files Detected",
     "Sending all passwords and personal files to server",
